@@ -5,6 +5,6 @@ I love some much Oskar Stålberg's hexagonal grid generation that I had to code 
 Here is a C++ version with Visual Studio project.
 Rendering and UI is done with dear imgui.
 
-![Image](images/img1.png)
-![Image](images/img2.png)
-![Image](images/img3.png)
+![Image](Images/img1.png)
+![Image](Images/img2.png)
+![Image](Images/img3.png)
